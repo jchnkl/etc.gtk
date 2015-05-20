@@ -1,7 +1,7 @@
 include "/usr/share/themes/Greybird/gtk-2.0/gtkrc"
 #gtk-theme-name="Greybird"
 
-gtk-icon-theme-name="elementary-mono-dark"
+gtk-icon-theme-name="elementary"
 gtk-fallback-icon-theme="gnome"
 gtk-font-name="DejaVu Sans Semi-Condensed 8"
 gtk-cursor-theme-name="gnome"
@@ -11,7 +11,3 @@ gtk-button-images=1
 gtk-menu-images=1
 gtk-enable-event-sounds=0
 gtk-enable-input-feedback-sounds=0
-gtk-xft-antialias=1
-gtk-xft-hinting=1
-gtk-xft-hintstyle="hintfull"
-gtk-xft-rgba="rgb"
