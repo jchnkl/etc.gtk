@@ -1,9 +1,9 @@
 include "/usr/share/themes/Greybird/gtk-2.0/gtkrc"
 #gtk-theme-name="Greybird"
 
-gtk-icon-theme-name="elementary-mono-dark"
+gtk-icon-theme-name="elementary-xfce-dark"
 gtk-fallback-icon-theme="gnome"
-gtk-font-name="DejaVu Sans Semi-Condensed 6"
+gtk-font-name="DejaVu Sans Semi-Condensed 10"
 gtk-cursor-theme-name="gnome"
 gtk-toolbar-style=GTK_TOOLBAR_ICONS
 gtk-toolbar-icon-size=GTK_ICON_SIZE_LARGE_TOOLBAR
