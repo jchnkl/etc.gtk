@@ -1,6 +1,4 @@
-include "/usr/share/themes/Vertex/gtk-2.0/gtkrc"
-# include "/usr/share/themes/Greybird/gtk-2.0/gtkrc"
-#gtk-theme-name="Greybird"
+include "/usr/share/themes/Arc/gtk-2.0/gtkrc"
 
 gtk-icon-theme-name="elementary-xfce-dark"
 gtk-fallback-icon-theme="gnome"
